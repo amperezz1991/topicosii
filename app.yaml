@@ -1,0 +1,9 @@
+application: prueba-151716
+version: one
+runtime: php
+api_version: 1
+
+handlers:
+
+- url: /.*
+script: index.php
